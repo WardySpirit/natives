@@ -15,6 +15,8 @@ static void WAIT(DWORD time);
 		--------------------------------------------------------------------  
 		It does not actually seem to wait the amount of milliseconds stated like the normal WAIT() command does, but it does seem to make task sequences work more smoothly  
 		System native hashes do not change on gameupdate  
+		
+ALIAS from: Citizen.Wait()
 ```
 
 ## Parameters
